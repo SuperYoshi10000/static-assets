@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2048"
+   height="4096"
+   viewBox="0 0 1024 2048"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <g
+       id="g47">
+      <g
+         id="g7"
+         transform="matrix(1.3333333,0,0,1.3333333,-21.333331,-7.9999989)">
+        <rect
+           style="fill:#f72f47;fill-opacity:1;stroke-width:0.53033"
+           id="rect1"
+           width="768"
+           height="96"
+           x="15.999999"
+           y="5.9999995" />
+        <g
+           id="g30"
+           transform="matrix(1.085765,0,0,1.085765,-4.5094382,-4.0930169)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke-width:7.80157;stroke-dasharray:none"
+             x="148.80309"
+             y="57.978207"
+             id="text30"
+             transform="scale(0.87390037,1.1442952)"><tspan
+               id="tspan30"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:7.80157"
+               x="148.80309"
+               y="57.978207">RED LINE</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke-width:7.80157;stroke-dasharray:none"
+             x="43.168781"
+             y="57.978207"
+             id="text38"
+             transform="scale(0.87390037,1.1442952)"><tspan
+               id="tspan38"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:7.80157"
+               x="43.168781"
+               y="57.978207">RED</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g10"
+         transform="matrix(1.3333333,0,0,1.3333333,-21.333331,120)">
+        <rect
+           style="fill:#f0af1f;fill-opacity:1;stroke-width:0.53033"
+           id="rect7"
+           width="768"
+           height="96"
+           x="15.999999"
+           y="5.9999995" />
+        <g
+           id="g30-32"
+           transform="matrix(1.085765,0,0,1.085765,-4.50945,-4.0930201)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke-width:7.80157;stroke-dasharray:none"
+             x="128.16107"
+             y="57.677422"
+             id="text30-11"
+             transform="scale(0.87390037,1.1442952)"><tspan
+               id="tspan30-32"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:7.80157"
+               x="128.16107"
+               y="57.677422">ORANGE</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke-width:7.80157;stroke-dasharray:none"
+             x="246.5957"
+             y="57.677422"
+             id="text30-1-5"
+             transform="scale(0.87390037,1.1442952)"><tspan
+               id="tspan30-1-35"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:7.80157"
+               x="246.5957"
+               y="57.677422">LINE</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.7275px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke-width:7.4608;stroke-dasharray:none"
+             x="22.517958"
+             y="55.158123"
+             id="text31"
+             transform="scale(0.83572918,1.1965599)"><tspan
+               id="tspan31"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.7275px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:7.4608"
+               x="22.517958"
+               y="55.158123">ORANGE</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g13"
+         transform="matrix(1.3333333,0,0,1.3333333,-21.333331,247.99999)">
+        <rect
+           style="fill:#cfcf2f;fill-opacity:1;stroke-width:0.53033"
+           id="rect10"
+           width="768"
+           height="96"
+           x="15.999999"
+           y="5.9999995" />
+        <g
+           id="g30-5"
+           transform="matrix(1.085765,0,0,1.085765,-4.50945,-4.0930201)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke-width:7.80157;stroke-dasharray:none"
+             x="128.16107"
+             y="57.677422"
+             id="text30-20"
+             transform="scale(0.87390037,1.1442952)"><tspan
+               id="tspan30-37"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:7.80157"
+               x="128.16107"
+               y="57.677422">YELLOW</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke-width:7.80157;stroke-dasharray:none"
+             x="246.5957"
+             y="57.677422"
+             id="text30-1-2"
+             transform="scale(0.87390037,1.1442952)"><tspan
+               id="tspan30-1-9"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:7.80157"
+               x="246.5957"
+               y="57.677422">LINE</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.251px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke-width:7.35218;stroke-dasharray:none"
+             x="23.774975"
+             y="54.355045"
+             id="text32"
+             transform="scale(0.82356163,1.2142382)"><tspan
+               id="tspan32"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.251px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:7.35218"
+               x="23.774975"
+               y="54.355045">YELLOW</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g16"
+         transform="matrix(1.3333333,0,0,1.3333333,-21.333331,376)">
+        <rect
+           style="fill:#2fbf2f;fill-opacity:1;stroke-width:0.53033"
+           id="rect13"
+           width="768"
+           height="96"
+           x="15.999999"
+           y="5.9999995" />
+        <g
+           id="g30-0"
+           transform="matrix(1.085765,0,0,1.085765,-4.50945,-4.0930201)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke-width:7.80157;stroke-dasharray:none"
+             x="130.85645"
+             y="57.978191"
+             id="text30-7"
+             transform="scale(0.87390037,1.1442952)"><tspan
+               id="tspan30-78"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:7.80157"
+               x="130.85645"
+               y="57.978191">GREEN LINE</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke-width:7.80157;stroke-dasharray:none"
+             x="25.598156"
+             y="57.677422"
+             id="text35"
+             transform="scale(0.87390037,1.1442952)"><tspan
+               id="tspan35"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:7.80157"
+               x="25.598156"
+               y="57.677422">GREEN</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke-width:7.80157;stroke-dasharray:none"
+             x="25.598156"
+             y="57.677422"
+             id="text36"
+             transform="scale(0.87390037,1.1442952)"><tspan
+               id="tspan36"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:7.80157"
+               x="25.598156"
+               y="57.677422">GREEN</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g19"
+         transform="matrix(1.3333333,0,0,1.3333333,-21.333331,504)">
+        <rect
+           style="fill:#2f47f7;fill-opacity:1;stroke-width:0.53033"
+           id="rect16"
+           width="768"
+           height="96"
+           x="15.999999"
+           y="5.9999995" />
+        <g
+           id="g30-2"
+           transform="matrix(1.085765,0,0,1.085765,-4.50945,-4.0930201)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke-width:7.80157;stroke-dasharray:none"
+             x="139.49557"
+             y="57.376644"
+             id="text30-5"
+             transform="scale(0.87390037,1.1442952)"><tspan
+               id="tspan30-7"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:7.80157"
+               x="139.49557"
+               y="57.376644">BLUE LINE</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke-width:7.80157;stroke-dasharray:none"
+             x="34.772007"
+             y="57.376667"
+             id="text37"
+             transform="scale(0.87390037,1.1442952)"><tspan
+               id="tspan37"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:7.80157"
+               x="34.772007"
+               y="57.376667">BLUE</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g22"
+         transform="matrix(1.3333333,0,0,1.3333333,-21.333331,632)">
+        <rect
+           style="fill:#af1ff0;fill-opacity:1;stroke-width:0.53033"
+           id="rect19"
+           width="768"
+           height="96"
+           x="15.999999"
+           y="5.9999995" />
+        <g
+           id="g30-3"
+           transform="matrix(1.085765,0,0,1.085765,-4.50945,-4.0930201)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke-width:7.80157;stroke-dasharray:none"
+             x="128.16107"
+             y="57.677422"
+             id="text30-4"
+             transform="scale(0.87390037,1.1442952)"><tspan
+               id="tspan30-2"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:7.80157"
+               x="128.16107"
+               y="57.677422">PURPLE</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke-width:7.80157;stroke-dasharray:none"
+             x="246.5957"
+             y="57.677422"
+             id="text30-1-8"
+             transform="scale(0.87390037,1.1442952)"><tspan
+               id="tspan30-1-8"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:7.80157"
+               x="246.5957"
+               y="57.677422">LINE</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.984px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke-width:7.5193;stroke-dasharray:none"
+             x="20.701899"
+             y="55.590584"
+             id="text33"
+             transform="scale(0.84228169,1.1872513)"><tspan
+               id="tspan33"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.984px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:7.5193"
+               x="20.701899"
+               y="55.590584">PURPLE</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g25"
+         transform="matrix(1.3333333,0,0,1.3333333,-21.333331,760)">
+        <rect
+           style="fill:#a0a0a0;fill-opacity:1;stroke-width:0.53033"
+           id="rect22"
+           width="768"
+           height="96"
+           x="15.999999"
+           y="5.9999995" />
+        <g
+           id="g30-9"
+           transform="matrix(1.085765,0,0,1.085765,-4.50945,-4.0930201)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke-width:7.80157;stroke-dasharray:none"
+             x="128.16107"
+             y="57.677422"
+             id="text30-29"
+             transform="scale(0.87390037,1.1442952)"><tspan
+               id="tspan30-3"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:7.80157"
+               x="128.16107"
+               y="57.677422">SILVER</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke-width:7.80157;stroke-dasharray:none"
+             x="246.5957"
+             y="57.677422"
+             id="text30-1-4"
+             transform="scale(0.87390037,1.1442952)"><tspan
+               id="tspan30-1-4"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:7.80157"
+               x="246.5957"
+               y="57.677422">LINE</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.5953px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke-width:7.43064;stroke-dasharray:none"
+             x="21.757284"
+             y="54.93515"
+             id="text34"
+             transform="scale(0.83235081,1.2014165)"><tspan
+               id="tspan34"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.5953px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:7.43064"
+               x="21.757284"
+               y="54.93515">SILVER</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g28"
+         transform="matrix(1.3333333,0,0,1.3333333,-21.333331,888.00001)">
+        <rect
+           style="fill:#07072f;fill-opacity:1;stroke-width:0.53033"
+           id="rect25"
+           width="768"
+           height="96"
+           x="15.999999"
+           y="5.9999995" />
+        <g
+           id="g30-6"
+           transform="matrix(1.085765,0,0,1.085765,-4.50945,-4.0930201)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke-width:7.80157;stroke-dasharray:none"
+             x="158.70384"
+             y="57.677422"
+             id="text30-2"
+             transform="scale(0.87390037,1.1442952)"><tspan
+               id="tspan30-9"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.2223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:7.80157"
+               x="158.70384"
+               y="57.677422">SHUTTLE</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.328px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke-width:6.9138;stroke-dasharray:none"
+             x="23.638697"
+             y="51.114124"
+             id="text39"
+             transform="scale(0.77445644,1.2912282)"><tspan
+               id="tspan39"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.328px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:6.9138"
+               x="23.638697"
+               y="51.114124">SHUTTLE</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g48">
+      <g
+         id="g40">
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke-width:15.565;stroke-dasharray:none"
+           d="M 576,120 632,64 576,8 v 40 h -32 v 32 h 32 z"
+           id="path39" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke-width:15.565;stroke-dasharray:none"
+           d="m 780,0 48,64 -48,64 h 56 L 884,64 836,0 Z"
+           id="path62" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path39"
+           id="use91"
+           transform="rotate(45,628.40202,246.50967)" />
+      </g>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g40"
+         id="use79"
+         style="display:none" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g40"
+         transform="translate(0,128)"
+         id="use80" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g40"
+         transform="translate(0,256)"
+         id="use81" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g40"
+         transform="translate(0,384)"
+         id="use82" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g40"
+         transform="translate(0,512)"
+         id="use83" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g40"
+         transform="translate(0,640)"
+         id="use84" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g40"
+         transform="translate(0,768)"
+         id="use85" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g40"
+         transform="translate(0,896)"
+         id="use86" />
+      <g
+         id="use87"
+         style="fill:#000000;fill-opacity:1"
+         transform="translate(0,1920)">
+        <path
+           style="fill:#000000;fill-opacity:1;stroke-width:15.565;stroke-dasharray:none"
+           d="M 576,120 632,64 576,8 v 40 h -32 v 32 h 32 z"
+           id="path89" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke-width:15.565;stroke-dasharray:none"
+           d="m 780,0 48,64 -48,64 h 56 L 884,64 836,0 Z"
+           id="path91" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path89"
+           id="use92"
+           transform="rotate(45,628.40202,246.50967)" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:73.0697px;font-family:Consolas;-inkscape-font-specification:'Consolas, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#30ef00;fill-opacity:1;stroke-width:22.9562;stroke-dasharray:none"
+         x="-5.3639603"
+         y="1675.4167"
+         id="text91"
+         transform="scale(0.83271219,1.2008951)"><tspan
+           id="tspan91"
+           style="fill:#30ef00;fill-opacity:1;stroke-width:22.9562"
+           x="-5.3639603"
+           y="1675.4167">EXIT</tspan></text>
+    </g>
+  </g>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
