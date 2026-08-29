@@ -1,0 +1,27 @@
+line colors
+0
+8
+16
+24
+32
+40
+48
+56
+
+96...
+	blue/orange/shuttle
+	blue/purple/shuttle
+	red/orange/yellow
+	red/orange/purple
+
+	red/orange
+	red/green
+	orange/yellow
+	orange/green
+	orange/purple
+	yellow/green
+	yellow/blue
+	yellow/purple
+	green/blue
+	green/purple
+	
